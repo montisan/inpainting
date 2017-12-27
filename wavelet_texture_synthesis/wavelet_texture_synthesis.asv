@@ -1,0 +1,4 @@
+unrepairedImage = imread('camera_b.bmp');
+[CA,CH,CV,CD,WTMask] = IP_Preprocessing(unrepairedImage);
+
+

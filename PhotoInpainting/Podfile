@@ -1,0 +1,4 @@
+platform :ios, '8.0'
+target 'PhotoInpainting' do
+pod 'OpenCV-iOS'
+end
